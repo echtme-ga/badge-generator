@@ -4,7 +4,7 @@
 
 > Magically generate Markdown badges for your docs
 
-[![GH Pages Deploy](https://github.com/echtme-ga/dev/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/badge-generator/actions/workflows/main.yml "GitHub Actions workflow status")
+[![GH Pages Deploy](https://github.com/echtme-ga/badge-generator/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/badge-generator/actions/workflows/main.yml "GitHub Actions workflow status")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/badge-generator)](https://github.com/MichaelCurrin/badge-generator/releases/?include_prereleases&sort=semver "View GitHub releases")
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license "Go to license section")
 
