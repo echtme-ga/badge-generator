@@ -1,6 +1,6 @@
 <div align="center">
 
-# Badge Generator <br> :shield: :badger: :mage:
+# Badge Generator 2.0 <br> :shield: :badger: :mage:
 
 > Magically generate Markdown badges for your docs
 
